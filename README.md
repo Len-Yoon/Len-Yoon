@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://velog.io/@mabest123/posts">
-    <img src="https://github.com/user-attachments/assets/b73ce838-f9e9-4c2e-bfdb-c38670fb58dd" />
-  </a>
+  <img src="https://github.com/user-attachments/assets/b73ce838-f9e9-4c2e-bfdb-c38670fb58dd" />
 </div>
 
 <div align="center">
+  <a href="https://velog.io/@mabest123/posts">
   <img src="https://img.shields.io/badge/Velog-90ee90?style=for-the-badge&logo=velog&logoColor=black">
+  </a>
 </div>
 
 
@@ -68,5 +68,16 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
 </div>
+
+<br><br>
+
+# 📊 My GitHub Stats
+<div align="center">
+  
+  ![Len-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt) 
+  
+</div>
+ 
+
 
 
