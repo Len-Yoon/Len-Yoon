@@ -74,7 +74,12 @@
 # 📊 My GitHub Stats
 <div align="center">
   
-  ![Len-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Yoon&layout=compact&theme=cobalt)
+
+  <br>
+  
+  ![Len-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt)
+  
   
 </div>
  
