@@ -2,12 +2,16 @@
   <img src="https://github.com/user-attachments/assets/b73ce838-f9e9-4c2e-bfdb-c38670fb58dd" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Velog-90ee90?style=for-the-badge&logo=velog&logoColor=black">
+</div>
+
+
 # 🛠 Tech Stack
 
+**🔧 Backend**
+
 <div>
-  
-## 🔧 Backend
-  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -15,13 +19,14 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-FF6F00?style=for-the-badge&logo=jpa&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=for-the-badge&logo=mybatis&logoColor=white">
-  
 </div>
 
-## 🎨 Frontend
+<br>
+
+**🎨 Frontend**
+
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
@@ -30,23 +35,36 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## 🛠️ DevOps & Infra
+<br>
+
+**🛠️ DevOps & Infra**
+
 <div>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
-## 🧪 Testing
+<br>
+
+**🧪 Testing**
+
 <div>
 <img src="https://img.shields.io/badge/JUnit5-FF1439?style=for-the-badge&logo=junit5&logoColor=white">
 <img src="https://img.shields.io/badge/Mockito-9ACD32?style=for-the-badge&logo=mockito&logoColor=white">
 <img src="https://img.shields.io/badge/K6-7F52FF?style=for-the-badge&logo=k6&logoColor=white">
 </div>
 
-## 🍬 Tools & Etc
+<br>
+
+**🍬 Tools & Etc**
+
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
 </div>
+
+
