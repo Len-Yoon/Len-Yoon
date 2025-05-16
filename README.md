@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <a href="https://velog.io/@mabest123/posts" target="_blank">
+  <a href="https://velog.io/@mabest123/posts">
   <img src="https://img.shields.io/badge/Velog-90ee90?style=for-the-badge&logo=velog&logoColor=black">
   </a>
 </div>
