@@ -69,6 +69,9 @@
 <div>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
+<img src="https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/LINUX-yellow?style=for-the-badge&logo=linux&logoColor=white">
+</div>
 </div>
 
 <br><br>
@@ -85,9 +88,18 @@
   
 </div>
 
- # 📒 Certificates
+<br>
+
+ # 📒 Certification
 - 2021.06 <b>SQL 개발자(SQLD) - 한국데이터산업진흥원</b>
 - 2024.04 <b>SQL 전문가(SQLP) - 한국데이터산업진흥원</b>
 - 2024.06 <b>정보처리기사 - 한국산업인력공단</b>
 - 2024.09 <b>리눅스 마스터 2급 - 한국정보통신진흥협회</b>
 
+<br>
+
+# 📖 Education
+- 2011.03-2013.02 <b>서울예술대학 실용음악과 (전문학사)</b>
+- 2018.01-2020.09 <b>학점은행제 경영경제학과 (학사)</b>
+- 2020.08-2021.02 <b>자바 웹&앱 콘텐츠 개발 전문가  과정 수료 (중앙정보처리학원)</b>
+- 2025.03-2025.12 <b> 하이테크 인공지능소프트웨어과 (폴리텍대학 정수캠퍼스) ~ing</b>
