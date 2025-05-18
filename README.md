@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/b73ce838-f9e9-4c2e-bfdb-c38670fb58dd" />
 </div>
 
-<br>
+<br> 
 
 <div align="center">
   <a href="https://velog.io/@mabest123/posts">
@@ -90,12 +90,16 @@
 
 <br>
 
+# 🏆 Contests
+- 2025.04 한이음 ICT 멘토링 공모전 - <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 ~ing</b>
+- 2025.05 미래내일일경험 프로젝트형 - <b> LMM 기반 대화형 AI 인공지능 비서 ~ing </b>
+
+<br>
+
  # 📒 Certification
 - 2021.06 <b>SQL 개발자(SQLD) - 한국데이터산업진흥원</b>
 - 2024.04 <b>SQL 전문가(SQLP) - 한국데이터산업진흥원</b>
 - 2024.06 <b>정보처리기사 - 한국산업인력공단</b>
 - 2024.09 <b>리눅스 마스터 2급 - 한국정보통신진흥협회</b>
-
-<br>
 
 
