@@ -32,8 +32,8 @@
 **🎨 Frontend**
 
 <div>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 </div>
 
 <br>
@@ -70,7 +70,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
 <img src="https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/LINUX-yellow?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/LINUX-yellow?style=for-the-badge&logo=linux&logoColor=white">
 </div>
 </div>
 
@@ -90,9 +90,20 @@
 
 <br>
 
-# 🏆 Contests
+# 💻 Project
+
+
+<br>
+
+# 🏆 Contest
 - 2025.04 한이음 ICT 멘토링 공모전 - <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 ~ing</b>
 - 2025.05 미래내일일경험 프로젝트형 - <b> LMM 기반 대화형 AI 인공지능 비서 ~ing </b>
+
+<br>
+
+# 📖 Eduacation
+- 2020.08-2021.02 자바(JAVA) 웹&앱 콘텐츠 개발 전문가 - 중앙정보처리학원
+- 2024.06-2024.08 항해 플러스 백엔드 5기 - 항해플러스 
 
 <br>
 
