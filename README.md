@@ -88,9 +88,6 @@
   
 </div>
 
-<br>
-
-# 💻 Project
 
 
 <br>
