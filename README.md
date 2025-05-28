@@ -11,7 +11,7 @@
 </div>
 
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **🔧 Backend**
 
@@ -76,7 +76,7 @@
 
 <br><br>
 
-# 📊 My GitHub Stats
+## 📊 My GitHub Stats
 <div align="center">
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Yoon&layout=compact&theme=cobalt)
@@ -92,19 +92,32 @@
 
 <br>
 
-# 🏆 Contest
-- 2025.04 한이음 ICT 멘토링 공모전 - <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 ~ing</b>
-- 2025.05 미래내일일경험 프로젝트형 - <b> LMM 기반 대화형 AI 인공지능 비서 ~ing </b>
+## 🏆 Contest
+- 2025.04 한이음 ICT 멘토링 공모전 <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 ~ing</b>
+- 2025.05 미래내일일경험 프로젝트형 <b> LMM 기반 대화형 AI 인공지능 비서 ~ing </b>
 
 <br>
 
-# 📖 Eduacation
-- 2020.08-2021.02 자바(JAVA) 웹&앱 콘텐츠 개발 전문가 - 중앙정보처리학원
-- 2024.06-2024.08 항해 플러스 백엔드 5기 - 항해플러스 
+## 📖 Eduacation
+- 2024.06-2024.08 <b>항해 플러스 백엔드 5기 - 항해플러스</b> <br>
+  - 1주차: TDD(Test-Driven Development) 학습 및 실습
+  - 2주차: 클린 아키텍처 설계 및 적용
+  - 3~5주차: 콘서트 예매 서비스 서버 구축 프로젝트
+  - 6~9주차: 대용량 트래픽 및 데이터 처리, Redis/Kafka 등 실무 전략 학습
+  - 10주차: 장애 대응 훈련 및 고가용성 설계 실습
+<br><br>
+- 2020.08-2021.02 <b>자바(JAVA) 웹&앱 콘텐츠 개발 전문가 - 중앙정보처리학원</b>
+  - 1~4주차: Java 기본 문법, 객체지향, 예외처리, 컬렉션, GUI, 네트워크, JDBC
+  - 5~6주차: 데이터베이스(Oracle/MySQL), DML/DDL, 함수, 권한제어
+  - 7~8주차: 웹표준(HTML5, CSS3, JS, jQuery, Ajax), 반응형 웹
+  - 9~12주차: JSP/Servlet, DB연동, 세션/쿠키, MVC 패턴, 게시판 구현
+  - 13~16주차: Spring, 전자정부 프레임워크, DI/AOP, MyBatis, 파일업로드
+  - 17~18주차: 안드로이드 앱, 레이아웃, 액티비티, DB, 네트워크
+  - 19~22주차: 실무 프로젝트(JSP/Spring, DB설계, UML, 오픈소스 활용)
 
 <br>
 
- # 📒 Certification
+ ## 📒 Certification
  - 2025.09 <b> 네트워크 관리사 2급 (예정) </b>
  - 2025.07 <b> 리눅스 마스터 1급 (예정) </b>
  - 2024.09 <b>리눅스 마스터 2급 - 한국정보통신진흥협회</b>
