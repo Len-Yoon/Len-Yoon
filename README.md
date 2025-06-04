@@ -31,27 +31,101 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-FF6F00?style=for-the-badge&logo=jpa&logoColor=white">
-<img src="https://img.shields.io/badge/MyBatis-6DB33F?style=for-the-badge&log현
+<img src="https://img.shields.io/badge/MyBatis-6DB33F?style=for-the-badge&logo=mybatis&logoColor=white">
+</div>
+
+<br>
+
+**🎨 Frontend**
+
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div>
+
+<br>
+
+**🛠️ DevOps & Infra**
+
+<div>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-black?style=for-the-badge&logo=apachekafka&logoColor=white"> 
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+</div>
+
+<br>
+
+**🧪 Testing**
+
+<div>
+<img src="https://img.shields.io/badge/JUnit5-FF1439?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Mockito-9ACD32?style=for-the-badge&logo=mockito&logoColor=white">
+<img src="https://img.shields.io/badge/K6-7F52FF?style=for-the-badge&logo=k6&logoColor=white">
+</div>
+
+<br>
+
+**🍬 Tools & Etc**
+
+<div>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
+<img src="https://img.shields.io/badge/FIGMA-black?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/LINUX-yellow?style=for-the-badge&logo=linux&logoColor=white">
+</div>
+</div>
+
+<br><br>
+
+## 📊 My GitHub Stats
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Yoon&layout=compact&theme=cobalt)
+
+  <br>
+  
+  ![Len-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt)
+  
+  
+</div>
+
+<br>
+
+## 🏢 Work Experience
+
+<b>Freelancer (2024.02 ~ 2024.08)</b>
+
+<br><br>
+<b>고양시 도시계획정보체계(UPIS) DB구축(2024.05 ~ 2024.07) </b>
+<br><br>
+<b>Decription</b> <br>
+기존 데이터베이스를 분석하고 표준화하며, 새로운 데이터 구조로 재구성하는 작업을 수행
 <br><br>
 <b>Tech Stack</b> <br>
-Java8, 전자정부 표준프레임워크, MyBatis, mySql, HTML5, CSS3  <br><br>
+Java8, 전자정부 표준프레임워크, MyBatis, Oracle <br><br>
+<b>What was difficult</b> <br>
+기존 데이터가 여러 형식으로 혼재되어 있어 모든 데이터의 구조를 표준화하고 정합성 검증하는데 힘들었 <br><br>
+<b>What I learned</b> <br>
+데이터 표준화의 중요성을 실감했고, 체계적인 DB 설계와 관리 역량을 키울 수 있었음
+
+<br><br>
+<b>영덕군 비표준 구전자문서 포맷변환 사업 시행 (2024.03 ~ 2024.05) </b>
+<br><br>
+<b>Decription</b> <br>
+변환된 전자문서의 효율적인 관리와 시스템 간 연계를 위해 API 구축 및 변환 시스템과 기록관리시스템(RMS) 간의 자동화된 데이터 이관, 실시간 상태 모니터링, 변환 요청 및 결과 조회 등 다양한 기능 구현
+<br><br>
+<b>Tech Stack</b> <br>
+Java8, 전자정부 표준프레임워크, MyBatis, Oracle, HTML5, CSS3  <br><br>
 <b>What was difficult</b> <br>
 비표준 문서 포맷이 다양하고 구조가 복잡해서 변환 과정에서 예상치 못한 오류가 자주 발생했음 <br><br>
 <b>What I learned</b> <br>
 비표준 데이터를 표준화하는 실무 경험을 쌓았고, 시스템 연계와 협업의 중요성을 깊이 느낌
-
-<br><br>
-<b>Moza Racing 제품 및 브랜드 홍보를 위한 웹 플랫폼 구축 (2024.01 ~ 2024.02) </b>
-<br><br>
-<b>Decription</b> <br>
-레이싱 시뮬레이터 브랜드 공식 사이트 구축, 제품 정보·이벤트·구매 연동, 관리자 페이지 개발
-<br><br>
-<b>Tech Stack</b> <br>
-PHP, HTML5, CSS3, JavaScript <br><br>
-<b>What was difficult</b> <br>
-카카오톡 API 연동 및 AI 챗봇 자연스러운 답변 설계, 다양한 문의 유형 처리 로직 구현이 어려웠음 <br><br>
-<b>What I learned</b> <br>
-실제 사용자 문의 패턴을 분석하면서 서비스 품질과 고객 경험의 중요성을 체감, 자동화의 실효성을 경험함
 
 <br><br>
 
@@ -76,7 +150,7 @@ PHP를 활용해 효율적으로 기능을 구현할 수 있었고, 사용자 �
 <b>Description</b> <br>
 ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적화, 외부 API·Line 알림 연동, 데이터 시각화 <br><br>
 <b>Tech Stack</b> <br>
-Java8, Springboot, MySQL, jQuery, Mybatis, SVN <br><br>
+Java8, SpringBoot, MySQL, jQuery, Mybatis, SVN <br><br>
 <b>What was difficult</b> <br>
 방대한 데이터 구조 변경, 쿼리 최적화와 데이터 정합성 유지, 외부 API 연동 이슈 해결이 어려웠음 <br><br>
 <b>What I learned</b> <br>
