@@ -101,9 +101,11 @@
 
 <b>Freelancer (2024.02 ~ 2024.08)</b>
 
-<br><br>
-<b>고양시 도시계획정보체계(UPIS) DB구축 (2024.05 ~ 2024.07) </b>
-<br><br>
+<details>
+  <summary><b>고양시 도시계획정보체계(UPIS) DB구축 (2024.05 ~ 2024.07)</b></summary>
+
+<br>
+
 <b>Decription</b> <br>
 - 기존 데이터베이스를 분석하고 표준화하며, 새로운 데이터 구조로 재구성하는 작업을 수행<br><br>
 
@@ -115,12 +117,16 @@
 
 <b>What I learned</b> <br>
 - 데이터 표준화의 중요성을 실감했고, 체계적인 DB 설계와 관리 역량을 키울 수 있었음
+</details>
 
-<br><br>
+<br>
 
-<b>영덕군 비표준 구전자문서 포맷변환 사업 시행 (2024.03 ~ 2024.05) </b> <br>
+<details>
+  <summary><b>영덕군 비표준 구전자문서 포맷변환 사업 시행 (2024.03 ~ 2024.05) </b></summary>
 
-<b>Decription</b> <br>
+<br>
+  
+  <b>Decription</b> <br>
 - 변환된 전자문서의 효율적인 관리와 시스템 간 연계를 위해 API 구축 및 변환 시스템과 기록관리시스템(RMS) 간의 자동화된 데이터 이관, 실시간 상태 모니터링, 변환 요청 및 결과 조회 등 다양한 기능 구현 <br><br>
 
 <b>Tech Stack</b> <br>
@@ -132,15 +138,24 @@
 <b>What I learned</b> <br>
 - 비표준 데이터를 표준화하는 실무 경험을 쌓았고, 시스템 연계와 협업의 중요성을 깊이 느낌
 
+</details>
+
+ <br>
+
+
 <hr>
 
 <b> 투비네트웍스 글로벌 (2021.10 ~ 2023.12) <br>
 FullStack Developer </b> <br>
 <br>
-<b>카카오톡 채널 A/S 자동 응대 서비스 (2023.10 ~ 2024.01) </b> <br><br>
 
-<b>Decription</b> <br>
-카카오톡 채널 AI 학습 및 DB 연동으로 A/S 문의 자동화, 제품 A/S·배송 진행 상황 실시간 안내 <br><br>
+<details>
+  <summary><b>카카오톡 채널 A/S 자동 응대 서비스 (2023.10 ~ 2024.01) </b></summary>
+
+  <br>
+
+  <b>Decription</b> <br>
+- 카카오톡 채널 AI 학습 및 DB 연동으로 A/S 문의 자동화, 제품 A/S·배송 진행 상황 실시간 안내 <br><br>
 
 <b>Tech Stack</b> <br>
 - Java17, PHP, HTML/CSS, JavaScript <br><br>
@@ -150,13 +165,17 @@ FullStack Developer </b> <br>
 
 <b>What I learned</b> <br>
 - PHP를 활용해 효율적으로 기능을 구현할 수 있었고, 사용자 중심의 UI/UX 설계가 사이트 완성도와 만족도를 높이는 데 결정적임을 다시 한 번 느낌
+</details>
+ 
+<br>
 
-<br><br>
+<details>
+  <summary><b>Data WareHouse Lead (2023.01 ~ 2023.04)</b></summary>
 
-<b>Data WareHouse Lead (2023.01 ~ 2023.04) </b><br><br>
+  <br>
 
 <b>Description</b> <br>
-ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적화, 외부 API·Line 알림 연동, 데이터 시각화 <br><br>
+- ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적화, 외부 API·Line 알림 연동, 데이터 시각화 <br><br>
 
 <b>Tech Stack</b> <br>
 - Java8, SpringBoot, MySQL, jQuery, Mybatis, SVN <br><br>
@@ -166,10 +185,14 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 
 <b>What I learned</b> <br>
 - 대용량 데이터 처리와 성능 최적화의 중요성, 데이터 기반 의사결정의 가치를 체감함
+</details>
 
-<br><br>
+<br>
 
-<b>사용자 권한 레벨에 따른 어드민 페이지 접근 및 관리 체계 구축 (2022.07 ~ 2022.08)</b><br><br>
+<details>
+  <summary><b>사용자 권한 레벨에 따른 어드민 페이지 접근 및 관리 체계 구축 (2022.07 ~ 2022.08)</b></summary>
+
+  <br>
 
 <b>Description</b> <br>
 - 역할별 권한 분리, 데이터 접근 제어, 휴가·서류 승인 등 어드민 업무 권한 세분화<br><br>
@@ -182,12 +205,17 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 
 <b>What I learned</b> <br>
 - 체계적인 권한 관리가 보안과 효율 모두에 필수적임을 실감, 실무에 적용할 수 있는 설계 경험을 쌓음
+</details>
 
-<br><br>
+<br>
 
-<b>Giveaway / Prelaunching Event (2021.11 ~ 2022.02)</b><br><br>
+<details>
+  <summary><b>Giveaway / Prelaunching Event (2021.11 ~ 2022.02)</b></summary>
+
+  <br>
 
 <b>Description</b> <br>
+
 - 이벤트 시스템 기획·개발·운영, 어드민 연동, 데이터 분석·시각화, 알람 기능, 매출 300% 성장 기여<br><br>
 
 <b>Tech Stack</b> <br>
@@ -198,12 +226,17 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 
 <b>What I learned</b> <br>
 - 전체 개발 프로세스를 직접 경험하며 책임감과 문제 해결 능력, 데이터 기반 마케팅의 효과를 배움
+</details>
 
-<br><br>
+<br>
 
-<b>Admin 고도화 (2021.10 ~ 2023.12)</b><br><br>
+<details>
+  <summary><b>Admin 고도화 (2021.10 ~ 2023.12)</b></summary>
+
+  <br>
 
 <b>Description</b> <br>
+
 - 엑셀 루틴 Rest API 자동화, 코드 모듈화, 권한 관리, SHA-256 암호화, 업무 효율 60%↑<br><br>
 
 <b>Tech Stack</b> <br>
@@ -214,6 +247,9 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 
 <b>What I learned</b> <br>
 - 자동화와 코드 개선의 중요성, 사용자 피드백 반영의 필요성, 보안 강화의 실질적 효과를 경험함
+</details>
+
+ <br>
 
 <hr>
 
@@ -221,9 +257,12 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 <b> Backend Developer </b>
 <br>
 
-<b>부산항만공사 프로젝트 (2021.07 ~ 2023.09)</b><br><br>
+<details>
+  <summary><b>부산항만공사 프로젝트 (2021.07 ~ 2023.09)</b></summary>
 
-<b>Description</b> <br>
+  <br>
+
+  <b>Description</b> <br>
 - Rest API 기반 주차 관리 시스템, 비품 관리 시스템 개발 <br><br>
 
 <b>Tech Stack</b> <br>
@@ -235,6 +274,10 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 <b>What I learned</b> <br>
 - 공공 SI 프로젝트의 체계적 프로세스 경험, API 설계와 협업의 중요성, 실무에서의 요구사항 분석 역량 강화
 
+</details>
+
+
+
 <br>
 
 ## 🏆 Contest
@@ -244,7 +287,10 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 <br>
 
 ## 📖 Eduacation
-- 2024.06 ~ 2024.08 <b>항해 플러스 백엔드 5기 - 항해플러스 </b>  
+- 2024.06 ~ 2024.08 <b>항해 플러스 백엔드 5기 - 항해플러스 </b>
+
+  <br>
+  
   - 1주차: TDD(Test-Driven Development) 학습 및 실습 
   - 2주차: 클린 아키텍처 설계 및 적용 
   - 3~5주차: 콘서트 예매 서비스 서버 구축 프로젝트 
@@ -255,6 +301,9 @@ ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적�
 <br>
 
 - 2020.08 ~ 2021.02 <b>자바(JAVA) 웹&앱 콘텐츠 개발 전문가 - 중앙정보처리학원 </b>
+
+  <br>
+  
   - 1~4주차: Java 기본 문법, 객체지향, 예외처리, 컬렉션, GUI, 네트워크, JDBC <br>
   - 5~6주차: 데이터베이스(Oracle/MySQL), DML/DDL, 함수, 권한제어 <br>
   - 7~8주차: 웹표준(HTML5, CSS3, JS, jQuery, Ajax), 반응형 웹 <br>
