@@ -269,10 +269,10 @@ FullStack Developer </b> <br>
 - Java8, Springboot, MySQL, iBatis, Git <br><br>
 
 <b>What was difficult</b> <br>
-- 공공기관 표준 준수와 다양한 이해관계자 요구사항 반영, 시스템 연동 테스트 과정에서의 복잡성을 경험 <br><br>
+- 공공기관 표준 준수와 다양한 이해관계자 요구사항 반영, 시스템 연동 테스트 과정에서의 복잡성을 경험함 <br><br>
 
 <b>What I learned</b> <br>
-- 공공 SI 프로젝트의 체계적 프로세스 경험, API 설계와 협업의 중요성, 실무에서의 요구사항 분석 역량 강화
+- 공공 SI 프로젝트의 체계적 프로세스 경험, API 설계와 협업의 중요성, 실무에서의 요구사항 분석 역량 강화함
 
 </details>
 
