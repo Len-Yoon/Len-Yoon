@@ -107,7 +107,7 @@
 레이싱 시뮬레이터 브랜드 공식 사이트 구축, 제품 정보·이벤트·구매 연동, 관리자 페이지 개발
 <br><br>
 <b>Tech Stack</b> <br>
-PHP, <br><br>
+PHP, HTML5, CSS3, JavaScript <br><br>
 <b>What was difficult</b> <br>
 카카오톡 API 연동 및 AI 챗봇 자연스러운 답변 설계, 다양한 문의 유형 처리 로직 구현이 어려웠음 <br><br>
 <b>What I learned</b> <br>
