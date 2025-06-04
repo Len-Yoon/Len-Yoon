@@ -99,7 +99,21 @@
 
 ## 🏢 Work Experience
 
-<b>Freelancer (2024.02 ~ 2024.12)</b> 
+<b>Freelancer (2024.02 ~ 2024.08)</b> 
+
+<br><br>
+<b>영덕군 비표준 구전자문서 포맷변환 사업 시행 (2024.03 ~ 2024.05) </b>
+<br><br>
+<b>Decription</b> <br>
+변환된 전자문서의 효율적인 관리와 시스템 간 연계를 위해 API 구축 및 변환 시스템과 기록관리시스템(RMS) 간의 자동화된 데이터 이관, 실시간 상태 모니터링, 변환 요청 및 결과 조회 등 다양한 기능 구
+<br><br>
+<b>Tech Stack</b> <br>
+Java8, 전자정부 표준프레임워크, MyBatis, mySql, HTML5, CSS3  <br><br>
+<b>What was difficult</b> <br>
+비표준 문서 포맷이 다양하고 구조가 복잡해서 변환 과정에서 예상치 못한 오류가 자주 발생했음 <br><br>
+<b>What I learned</b> <br>
+비표준 데이터를 표준화하는 실무 경험을 쌓았고, 시스템 연계와 협업의 중요성을 깊이 느낌
+
 <br><br>
 <b>Moza Racing 제품 및 브랜드 홍보를 위한 웹 플랫폼 구축 (2024.01 ~ 2024.02) </b>
 <br><br>
@@ -123,11 +137,11 @@ PHP, HTML5, CSS3, JavaScript <br><br>
 카카오톡 채널 AI 학습 및 DB 연동으로 A/S 문의 자동화, 제품 A/S·배송 진행 상황 실시간 안내
 <br><br>
 <b>Tech Stack</b> <br>
-Java8, PHP, HTML/CSS, JavaScript <br><br>
+Java17, PHP, HTML/CSS, JavaScript <br><br>
 <b>What was difficult</b> <br>
 다양한 제품군과 복잡한 게임 호환성 정보를 체계적으로 정리하고, PHP를 이용 사용자 친화적으로 UI/UX 설계하는 데 시간과 노력이 많이 들었음 <br><br>
 <b>What I learned</b> <br>
-PHP를 활용해 효율적으로 기능을 구현할 수 있었고, 사용자 중심의 UI/UX 설계가 사이트 완성도와 만족도를 높이는 데 결정적임을 다시 한 번 느
+PHP를 활용해 효율적으로 기능을 구현할 수 있었고, 사용자 중심의 UI/UX 설계가 사이트 완성도와 만족도를 높이는 데 결정적임을 다시 한 번 느낌
 
 <br><br>
 
@@ -149,7 +163,7 @@ Java8, Springboot, MySQL, jQuery, Mybatis, SVN <br><br>
 <b>Description</b> <br>
 역할별 권한 분리, 데이터 접근 제어, 휴가·서류 승인 등 어드민 업무 권한 세분화<br><br>
 <b>Tech Stack</b> <br>
-Java8, Springboot, MySQL, jQuery, Mybatis, SVN <br><br>
+Java17, Springboot, MySQL, jQuery, Mybatis, SVN <br><br>
 <b>What was difficult</b> <br>
 복잡한 권한 설계와 예외처리, 권한별 데이터 범위 제어 로직 구현에 어려웠음 <br><br>
 <b>What I learned</b> <br>
@@ -198,6 +212,8 @@ Java8, Springboot, MySQL, iBatis, Git <br><br>
 공공기관 표준 준수와 다양한 이해관계자 요구사항 반영, 시스템 연동 테스트 과정에서의 복잡성을 경험 <br><br>
 <b>What I learned</b> <br>
 공공 SI 프로젝트의 체계적 프로세스 경험, API 설계와 협업의 중요성, 실무에서의 요구사항 분석 역량 강화
+
+<br>
 
 ## 🏆 Contest
 - 2025.04 한이음 ICT 멘토링 공모전 <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 ~ing</b>
