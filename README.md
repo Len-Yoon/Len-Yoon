@@ -178,7 +178,7 @@ FullStack Developer </b> <br>
 - ERP 고도화 위한 DW 구축, 데이터 정규화/비정규화, 쿼리 최적화, 외부 API·Line 알림 연동, 데이터 시각화 <br><br>
 
 <b>Tech Stack</b> <br>
-- Java8, SpringBoot, MySQL, jQuery, Mybatis, SVN <br><br>
+- Java17, SpringBoot, MySQL, JPA, React, SVN <br><br>
 
 <b>What was difficult</b> <br>
 - 방대한 데이터 구조 변경, 쿼리 최적화와 데이터 정합성 유지, 외부 API 연동 이슈 해결이 어려웠음 <br><br>
@@ -198,7 +198,7 @@ FullStack Developer </b> <br>
 - 역할별 권한 분리, 데이터 접근 제어, 휴가·서류 승인 등 어드민 업무 권한 세분화<br><br>
 
 <b>Tech Stack</b> <br>
-- Java17, Springboot, MySQL, jQuery, Mybatis, SVN <br><br>
+- Java8, Springboot, MySQL, jQuery, Mybatis, SVN <br><br>
 
 <b>What was difficult</b> <br>
 - 복잡한 권한 설계와 예외처리, 권한별 데이터 범위 제어 로직 구현에 어려웠음 <br><br>
