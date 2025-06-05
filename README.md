@@ -286,7 +286,7 @@ FullStack Developer </b> <br>
 
 <br>
 
-## 📖 Eduacation
+## 📖 Study
 - 2024.06 ~ 2024.08 <b>항해 플러스 백엔드 5기 - 항해플러스 </b>
 
   <br>
