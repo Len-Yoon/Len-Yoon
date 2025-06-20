@@ -253,7 +253,8 @@ FullStack Developer </b> <br>
 
 <hr>
 
-<b> 솔트웨어 (2021.07 ~ 2021.10) </b> <br>
+<b> 솔트웨어 (2021.07 ~ 2021.10) </b> 
+<br>
 <b> Backend Developer </b>
 <br>
 
