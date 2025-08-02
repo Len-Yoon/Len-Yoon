@@ -3,7 +3,7 @@
 </div> 
 <br>   
 
-<div font_size: 2erm, align="center">
+<div font_size: 2erm, align="center"> 
     <b>한 걸음씩 성장하며, 데이터와 시스템을 안정적으로 이끄는 풀스택 개발자 <br>
     안녕하세요! 저는 윤성헌입니다! </b>
 </div>
