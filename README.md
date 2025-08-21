@@ -1,7 +1,7 @@
 <div align="center"> 
   <img src="https://github.com/user-attachments/assets/b73ce838-f9e9-4c2e-bfdb-c38670fb58dd" />
 </div>
-<br>  
+<br>
 
 <div font_size: 2erm, align="center"> 
     <b>한 걸음씩 성장하며, 데이터와 시스템을 안정적으로 이끄는 풀스택 개발자 <br>
