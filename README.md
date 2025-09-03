@@ -282,7 +282,7 @@ FullStack Developer </b> <br>
 <br>
 
 ## 🏆 Contest
-- 2025.04 한이음 ICT 멘토링 공모전 <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 ~ing</b>
+- 2025.04 한이음 ICT 멘토링 공모전 <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 ~ing  <a href="https://github.com/Len-Yoon/llm_proejct/tree/master">깃허브 이동</a></b>
 - 2025.05 미래내일일경험 프로젝트형 <b> AI Agent 기반 개인 맞춤형 뉴스 서비스 ~ing </b>
 
 <br>
