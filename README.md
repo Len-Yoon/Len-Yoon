@@ -319,7 +319,6 @@ FullStack Developer </b> <br>
 
  ## 📒 Certification
  - 2025.11 <b> 리눅스 마스터 1급 (예정) </b> <br>
- - 2025.09 <b> AWS Developer (예정)</b><br>
  - 2024.09 <b>리눅스 마스터 2급 - 한국정보통신진흥협회</b> <br>
  - 2024.06 <b>정보처리기사 - 한국산업인력공단</b> <br>
  - 2024.04 <b>SQL 전문가(SQLP) - 한국데이터산업진흥원</b> <br>
