@@ -86,11 +86,11 @@
 ## 📊 My GitHub Stats 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Yoon&layout=compact&theme=cobalt&token=ghp_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)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Yoon&layout=compact&theme=cobalt&token=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)
 
   <br>
   
-  ![Len-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt&token=ghp_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)
+  ![Len-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt&token=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)
   
 </div>
 
