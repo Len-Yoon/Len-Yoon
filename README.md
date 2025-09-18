@@ -3,7 +3,7 @@
 </div> 
 <br>
 
-<div font_size: 2erm, align="center"> 
+<div font_size: 2rem, align="center"> 
     <b>한 걸음씩 성장하며, 데이터와 시스템을 안정적으로 이끄는 풀스택 개발자 <br>
     안녕하세요! 저는 윤성헌입니다! </b> 
 </div> 
@@ -86,11 +86,16 @@
 ## 📊 My GitHub Stats 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Yoon&layout=compact&theme=cobalt&token=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)
+  <!-- 공용 미러 엔드포인트 + 캐시. 토큰 노출 없음 -->
+  <img 
+    alt="Top Langs"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Len-Yoon&layout=compact&theme=cobalt&cache_seconds=86400" />
 
-  <br>
-  
-  ![Len-Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt&token=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)
+  <br><br>
+
+  <img 
+    alt="Len-Yoon's GitHub stats"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt&include_all_commits=true&cache_seconds=86400" />
   
 </div>
 
