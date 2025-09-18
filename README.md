@@ -83,20 +83,29 @@
 
 <br><br>
 
-## 📊 My GitHub Stats 
+## 📊 My GitHub Stats
 <div align="center">
-  
-  <!-- 공용 미러 엔드포인트 + 캐시. 토큰 노출 없음 -->
-  <img 
-    alt="Top Langs"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Len-Yoon&layout=compact&theme=cobalt&cache_seconds=86400" />
+
+  <!-- 활동/연속 기록(안정적) -->
+  <img alt="GitHub Streak"
+     src="https://github-readme-streak-stats.herokuapp.com?user=Len-Yoon&theme=blue-green&hide_border=true" />
+
+
 
   <br><br>
 
-  <img 
-    alt="Len-Yoon's GitHub stats"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt&include_all_commits=true&cache_seconds=86400" />
-  
+  <!-- 요약 카드(언어/커밋 등) -->
+  <img alt="Profile Summary"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Len-Yoon&theme=2077" />
+
+  <br>
+
+  <img alt="Top Languages"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Len-Yoon&theme=2077" />
+
+  <img alt="Commits per Day"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Len-Yoon&theme=2077&utcOffset=9" />
+
 </div>
 
 
