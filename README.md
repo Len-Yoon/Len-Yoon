@@ -302,7 +302,7 @@ FullStack Developer </b> <br>
   - 10주차: 장애 대응 훈련 및 고가용성 설계 실습
   - <a href="https://github.com/Len-Yoon/hhplus_concert_service">깃허브 이동</a>
   
-<br>
+<br> 
 
 - 2020.08 ~ 2021.02 <b>자바(JAVA) 웹&앱 콘텐츠 개발 전문가 - 중앙정보처리학원 </b>
 
