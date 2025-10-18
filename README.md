@@ -283,6 +283,7 @@ FullStack Developer </b> <br>
 <br>
 
 ## 🏆 Contest
+- 2025.10 ACK 2025 공공기관 키오스크 환경에서 토큰화 및 노이즈 캔슬링 기반 음성 인식 정확도 향상 연구 논문 확정 
 - 2025.04 한이음 ICT 멘토링 공모전 <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 (장려상확정)  <a href="https://github.com/Len-Yoon/llm_proejct/tree/master">깃허브 이동</a></b>
 - 2025.05 미래내일일경험 프로젝트형 <b> AI Agent 기반 개인 맞춤형 뉴스 서비스 (종료)   <a href="https://github.com/Len-Yoon/news_ai_agent_project">깃허브 이동</a></b>
 
@@ -315,13 +316,6 @@ FullStack Developer </b> <br>
   - 13~16주차: Spring, 전자정부 프레임워크, DI/AOP, MyBatis, 파일업로드 <br>
   - 17~18주차: 안드로이드 앱, 레이아웃, 액티비티, DB, 네트워크 <br>
   - 19~22주차: 실무 프로젝트(JSP/Spring, DB설계, UML, 오픈소스 활용) 
-
-<br>
-
- ## 📒 Certification
- - 2024.09 <b>리눅스 마스터 2급 - 한국정보통신진흥협회</b> <br>
- - 2024.06 <b>정보처리기사 - 한국산업인력공단</b> <br>
- - 2021.06 <b>SQL 개발자(SQLD) - 한국데이터산업진흥원</b> <br>
 
 
 
