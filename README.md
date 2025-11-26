@@ -284,7 +284,7 @@ FullStack Developer </b> <br>
 
 ## 🏆 Contest
 - 2025.10 ACK 2025 공공기관 키오스크 환경에서 토큰화 및 노이즈 캔슬링 기반 음성 인식 정확도 향상 연구 논문 확정 
-- 2025.04 한이음 ICT 멘토링 공모전 <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 (장려상확정)  <a href="https://github.com/Len-Yoon/llm_proejct/tree/master">깃허브 이동</a></b>
+- 2025.04 한이음 ICT 멘토링 공모전 <b>디지털 취약계층을 위한 LMM 기반 대화형 무인민원발급시스템 (장려상)  <a href="https://github.com/Len-Yoon/llm_proejct/tree/master">깃허브 이동</a></b>
 - 2025.05 미래내일일경험 프로젝트형 <b> AI Agent 기반 개인 맞춤형 뉴스 서비스 (종료)   <a href="https://github.com/Len-Yoon/news_ai_agent_project">깃허브 이동</a></b>
 
 
