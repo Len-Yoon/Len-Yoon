@@ -5,10 +5,10 @@
 <br>
 
 <div align="center">
-  <h2>
+  <h4>
     한 걸음씩 성장하며, 데이터와 시스템을 안정적으로 이끄는 풀스택 개발자<br>
     안녕하세요! 저는 윤성헌입니다!
-  </h2>
+  </h4>
 </div>
 
 <br>
@@ -88,18 +88,14 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Len-Yoon&layout=compact&theme=cobalt"
-    alt="Top Languages"
-  />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 
   <br><br>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Len-Yoon&show_icons=true&theme=cobalt"
-    alt="Len-Yoon's GitHub Stats"
-  />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </div>
+
+<br>
 
 <br>
 
