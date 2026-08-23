@@ -167,15 +167,17 @@
 - Codex와 Claude를 활용해 증적관리 업무를 지원하는 시스템 개발 및 반복 개선 수행
 - Harness Engineering과 Loop Engineering을 적용해 AI 에이전트 실행 환경과 검증 흐름 구성
 - GitLab을 기반으로 소스 코드, 이슈, 변경 이력 및 프로젝트 진행 사항 관리
-- 기존 Java 17 기반 시스템을 React 기반 구조로 전환하고, Oracle 데이터베이스를 MySQL로 마이그레이션
+- 기존 Java 8 기반 시스템을 Java 17 기반으로 고도화하고, React 프론트엔드를 적용하여 현대화
+- Oracle 데이터베이스를 MySQL로 전환하는 데이터베이스 마이그레이션 수행
 
 **Tech Stack**
 
-- Java 17, React, Oracle, MySQL, Codex, Claude, GitLab, Harness Engineering, Loop Engineering
+- Java 8, Java 17, React, Oracle, MySQL, Codex, Claude, GitLab, Harness Engineering, Loop Engineering
 
 **What I learned**
 
 - AI 도구 활용을 넘어 개발·검증·개선이 지속되는 에이전트 실행 환경 설계 경험을 축적함
+- 레거시 Java 시스템을 최신 Java·React 구조로 전환하고 DB를 마이그레이션할 때 기존 기능과 데이터의 영향 범위를 함께 검토하는 중요성을 경험함
 
 </details>
 
