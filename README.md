@@ -17,6 +17,9 @@
   <a href="https://velog.io/@mabest123/posts">
     <img src="https://img.shields.io/badge/Velog-90ee90?style=for-the-badge&logo=velog&logoColor=black" alt="Velog">
   </a>
+  <a href="https://github.com/Len-Yoon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </div>
 
 <br>
@@ -31,6 +34,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/JPA-FF6F00?style=for-the-badge&logo=hibernate&logoColor=white">
@@ -56,6 +60,8 @@
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
@@ -81,7 +87,17 @@
   <img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
 </div>
+
+<br><br>
+
+## 💡 Core Competencies
+
+- **운영 자동화 시스템 개발**: Linux·Windows 환경을 분리하여 서버 상태 점검, 이상 감지, 담당자 알림, 서비스 재기동까지 이어지는 자동화 시스템 구현
+- **AI 활용 업무 시스템 개발**: 외부망 환경의 AI 기반 증적관리 프로젝트에서 Codex·Claude를 활용하고 Harness/Loop Engineering 방식으로 반복 검증·개선 수행
+- **CI/CD 및 형상관리**: 빌드·테스트·배포 흐름을 고려한 CI/CD 구성 역량 보유, GitLab 기반 소스·이슈·변경 이력 관리 수행
+- **데이터 및 시스템 연계**: REST API, DB, 외부 서비스 연동을 기반으로 데이터 처리와 운영 기능 구현
 
 <br><br>
 
@@ -100,6 +116,81 @@
 <br>
 
 ## 🏢 Work Experience
+
+### 코니퍼
+**2025.10 ~ Present | SI/SM FullStack Developer**
+
+<details>
+<summary><b>SKT 위험명령어·실시간 인증 시스템 운영 (2026.08 ~ Present)</b></summary>
+
+<br>
+
+**Description**
+
+- 위험명령어 통제 및 실시간 인증 기능을 제공하는 시스템 운영
+- 운영 상태를 확인하고, 서비스 요청·이슈 발생 시 필요한 조치 수행
+- 운영 과정에서 확인된 개선·대응 사항을 관리하며 서비스 안정성 유지 지원
+
+**Tech Stack**
+
+- 운영 시스템 기술 스택은 공개 범위 확인 후 추가 예정
+
+**What I learned**
+
+- 인증·통제 기능의 안정적 운영과 운영 이슈 대응 과정에서 정확한 영향도 판단의 중요성을 경험함
+
+</details>
+
+<br>
+
+<details>
+<summary><b>SKT AI 기반 증적관리 시스템 (2026.05 ~ 2028.08 / 진행 중)</b></summary>
+
+<br>
+
+**Description**
+
+- 외부망 환경에서 수행하는 SKT 최초의 AI 기반 증적관리 프로젝트 개발 진행
+- Codex와 Claude를 활용해 증적관리 업무를 지원하는 시스템 개발 및 반복 개선 수행
+- Harness Engineering과 Loop Engineering을 적용해 AI 에이전트 실행 환경과 검증 흐름 구성
+- GitLab을 기반으로 소스 코드, 이슈, 변경 이력 및 프로젝트 진행 사항 관리
+
+**Tech Stack**
+
+- Codex, Claude, GitLab, Harness Engineering, Loop Engineering
+
+**What I learned**
+
+- AI 도구 활용을 넘어 개발·검증·개선이 지속되는 에이전트 실행 환경 설계 경험을 축적함
+
+</details>
+
+<br>
+
+<details>
+<summary><b>SKT 워크포탈 서버 상태 점검·장애 대응 자동화 (2025.10 ~ 2026.04)</b></summary>
+
+<br>
+
+**Description**
+
+- SKT 전 서버의 상태를 매일 자동 점검하는 시스템 개발
+- Linux와 Windows 환경을 분리하여 운영체제별 점검·장애 대응 로직 구현
+- 이상 상태 감지 시 담당자에게 자동 알림을 전송하고, 정해진 기준에 따라 서비스 재기동까지 수행하도록 자동화
+
+**Tech Stack**
+
+- Python, Linux, Windows
+
+**What I learned**
+
+- 반복 점검 업무를 자동화하고, 감지·알림·복구를 하나의 흐름으로 설계하는 역량을 강화함
+
+</details>
+
+<br>
+
+---
 
 ### Freelancer
 **2024.02 ~ 2024.08**
@@ -357,6 +448,17 @@
 <br>
 
 ## 📖 Study
+
+### Personal AI Engineering Lab
+**개인 서버 기반 | 진행 중**
+
+- 개인 서버 환경에서 AI 에이전트 개발·실험 환경을 구성하고 반복 검증 수행
+- Harness Engineering을 적용해 에이전트 실행 환경, 도구 연동 및 검증 흐름 구성
+- Loop Engineering 방식으로 결과 검증 → 개선 → 재실행의 반복 루프 설계
+- Codex·Claude를 활용한 자동화 워크플로우와 개발 생산성 개선 실험 수행
+- GitHub 기반 개인 프로젝트 이력 관리 및 공개 저장소 연동
+
+<br>
 
 ### 항해 플러스 백엔드 5기
 **2024.06 ~ 2024.08**
