@@ -105,7 +105,7 @@
 
 ## 💡 Core Competencies
 
-- **운영 자동화 시스템 개발**: Python·Shell Script를 활용해 서버 상태 점검, 이상 감지, 담당자 알림, 서비스 재기동까지 이어지는 자동화 시스템 구현
+- **운영 자동화 시스템 개발**: Python·FastAPI·Shell Script를 활용해 서버 상태 점검, 이상 감지, 담당자 알림, 서비스 재기동까지 이어지는 자동화 시스템 구현
 - **AI 활용 업무 시스템 개발**: 외부망 환경의 AI 기반 증적관리 프로젝트에서 Codex·Claude를 활용하고 Harness/Loop Engineering 방식으로 반복 검증·개선 수행
 - **CI/CD 및 형상관리**: 빌드·테스트·배포 흐름을 고려한 CI/CD 구성 역량 보유, GitLab 기반 소스·이슈·변경 이력 관리 수행
 - **개인 서버·GitHub 연동**: 개인 서버 개발 환경과 GitHub 저장소를 연동하여 소스 코드, 변경 이력 및 AI 실험 결과 관리
@@ -146,7 +146,7 @@
 
 **Tech Stack**
 
-- Shell Script
+- Java 8, MyBatis, jQuery, MySQL, Shell Script
 
 **What I learned**
 
@@ -167,10 +167,11 @@
 - Codex와 Claude를 활용해 증적관리 업무를 지원하는 시스템 개발 및 반복 개선 수행
 - Harness Engineering과 Loop Engineering을 적용해 AI 에이전트 실행 환경과 검증 흐름 구성
 - GitLab을 기반으로 소스 코드, 이슈, 변경 이력 및 프로젝트 진행 사항 관리
+- 기존 Java 17 기반 시스템을 React 기반 구조로 전환하고, Oracle 데이터베이스를 MySQL로 마이그레이션
 
 **Tech Stack**
 
-- Codex, Claude, GitLab, Harness Engineering, Loop Engineering
+- Java 17, React, Oracle, MySQL, Codex, Claude, GitLab, Harness Engineering, Loop Engineering
 
 **What I learned**
 
@@ -187,13 +188,13 @@
 
 **Description**
 
-- SKT 전 서버의 상태를 매일 자동 점검하는 시스템 개발
+- Python과 FastAPI 기반으로 SKT 전 서버의 상태를 매일 자동 점검하는 시스템 개발
 - Linux와 Windows 환경을 분리하여 운영체제별 점검·장애 대응 로직 구현
 - 이상 상태 감지 시 담당자에게 자동 알림을 전송하고, 정해진 기준에 따라 서비스 재기동까지 수행하도록 자동화
 
 **Tech Stack**
 
-- Python, Linux, Windows
+- Python, FastAPI, Linux, Windows
 
 **What I learned**
 
