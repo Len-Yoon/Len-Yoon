@@ -129,7 +129,7 @@
 
 ## 🏢 Work Experience
 
-### 코니퍼
+### SK AX
 **2025.10 ~ Present | SI/SM FullStack Developer**
 
 <details>
