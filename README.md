@@ -55,6 +55,17 @@
 
 <br>
 
+### 🤖 AI Engineering
+
+<div>
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Harness_Engineering-5B5FC7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Loop_Engineering-5B5FC7?style=for-the-badge">
+</div>
+
+<br>
+
 ### 🛠️ DevOps & Infra
 
 <div>
