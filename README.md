@@ -60,8 +60,6 @@
 <div>
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Harness_Engineering-5B5FC7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Loop_Engineering-5B5FC7?style=for-the-badge">
 </div>
 
 <br>
@@ -157,13 +155,13 @@
 <br>
 
 <details>
-<summary><b>SKT AI 기반 증적관리 시스템 (2026.05 ~ 2028.08)</b></summary>
+<summary><b>SKT AI 기반 증적관리 시스템 (2026.05 ~ Present)</b></summary>
 
 <br>
 
 **Description**
 
-- 외부망 환경에서 수행하는 SKT 최초의 AI 기반 증적관리 프로젝트 개발 진행
+- 외부망 환경의 AI 기반 증적관리 프로젝트 개발 진행
 - Codex와 Claude를 활용해 증적관리 업무를 지원하는 시스템 개발 및 반복 개선 수행
 - Harness Engineering과 Loop Engineering을 적용해 AI 에이전트 실행 환경과 검증 흐름 구성
 - GitLab을 기반으로 소스 코드, 이슈, 변경 이력 및 프로젝트 진행 사항 관리
@@ -172,7 +170,11 @@
 
 **Tech Stack**
 
-- Java 8, Java 17, React, Oracle, MySQL, Codex, Claude, GitLab, Harness Engineering, Loop Engineering
+- Java 8, Java 17, React, Oracle, MySQL, Codex, Claude, GitLab
+
+**Engineering Approach**
+
+- Harness Engineering, Loop Engineering
 
 **What I learned**
 
