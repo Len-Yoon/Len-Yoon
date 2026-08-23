@@ -155,7 +155,7 @@
 <br>
 
 <details>
-<summary><b>SKT AI 기반 증적관리 시스템 (2026.05 ~ Present)</b></summary>
+<summary><b>SKT AI 기반 증적관리 시스템 (2026.05 ~ 2026.08)</b></summary>
 
 <br>
 
