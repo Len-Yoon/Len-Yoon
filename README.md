@@ -6,8 +6,8 @@
 
 <div align="center">
   <h3>
-    한 걸음씩 성장하며, 데이터와 시스템을 안정적으로 이끄는 풀스택 개발자<br>
-    안녕하세요! 저는 윤성헌입니다!
+    Java·React·Python 기반 SI/SM FullStack Developer<br>
+    레거시 현대화, 서버 운영 자동화, AI Workflow Engineering 경험을 보유한 윤성헌입니다.
   </h3>
 </div>
 
@@ -103,6 +103,7 @@
 
 ## 💡 Core Competencies
 
+- **대기업 SI/SM 시스템 개발**: 폐쇄망 환경과 보안 제약을 고려해 요구사항 분석, 기능 개발, 시스템 고도화 및 운영 지원 수행
 - **운영 자동화 시스템 개발**: Python·FastAPI·Shell Script를 활용해 서버 상태 점검, 이상 감지, 담당자 알림, 서비스 재기동까지 이어지는 자동화 시스템 구현
 - **AI 활용 업무 시스템 개발**: 외부망 환경의 AI 기반 증적관리 프로젝트에서 Codex·Claude를 활용하고 Harness/Loop Engineering 방식으로 반복 검증·개선 수행
 - **CI/CD 및 형상관리**: 빌드·테스트·배포 흐름을 고려한 CI/CD 구성 역량 보유, GitLab 기반 소스·이슈·변경 이력 관리 수행
@@ -126,6 +127,10 @@
 <br>
 
 ## 🏢 Work Experience
+
+> 기업 프로젝트는 보안 및 계약상 코드·상세 아키텍처를 공개하지 않으며, 공개 가능한 범위에서 역할·기술·성과를 기록합니다.
+
+<br>
 
 ### SK AX
 **2025.10 ~ Present | SI/SM FullStack Developer**
