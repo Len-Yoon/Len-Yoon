@@ -489,6 +489,7 @@
 - Loop Engineering 방식으로 결과 검증 → 개선 → 재실행의 반복 루프 설계
 - Codex·Claude를 활용한 자동화 워크플로우와 개발 생산성 개선 실험 수행
 - 개인 서버 개발 환경과 GitHub 저장소를 연동하여 소스 코드, 변경 이력 및 AI 실험 결과 관리
+- [GitHub Repository](https://github.com/Len-Yoon/personal-server)
 
 <br>
 
