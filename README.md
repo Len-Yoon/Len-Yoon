@@ -204,7 +204,7 @@
 
 **Tech Stack**
 
-- Python, FastAPI, Linux, Windows
+- Python, FastAPI, Linux, Windows, MySQL
 
 **What I learned**
 
