@@ -6,8 +6,8 @@
 
 <div align="center">
   <h3>
-    Java·React·Python 기반 SI/SM FullStack Developer<br>
-    레거시 현대화, 서버 운영 자동화, AI Workflow Engineering 경험을 보유한 윤성헌입니다.
+    Java·React·Python 기반 FullStack Developer<br>
+    레거시 현대화, 운영 자동화·SRE 구축, AI 활용 개발 워크플로우 설계 경험을 보유한 윤성헌입니다.
   </h3>
 </div>
 
@@ -68,10 +68,13 @@
 
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
@@ -103,12 +106,25 @@
 
 ## 💡 Core Competencies
 
-- **대기업 SI/SM 시스템 개발**: 폐쇄망 환경과 보안 제약을 고려해 요구사항 분석, 기능 개발, 시스템 고도화 및 운영 지원 수행
-- **운영 자동화 시스템 개발**: Python·FastAPI·Shell Script를 활용해 서버 상태 점검, 이상 감지, 담당자 알림, 서비스 재기동까지 이어지는 자동화 시스템 구현
-- **AI 활용 업무 시스템 개발**: 외부망 환경의 AI 기반 증적관리 프로젝트에서 Codex·Claude를 활용하고 Harness/Loop Engineering 방식으로 반복 검증·개선 수행
-- **CI/CD 및 형상관리**: 빌드·테스트·배포 흐름을 고려한 CI/CD 구성 역량 보유, GitLab 기반 소스·이슈·변경 이력 관리 수행
-- **개인 서버·GitHub 연동**: 개인 서버 개발 환경과 GitHub 저장소를 연동하여 소스 코드, 변경 이력 및 AI 실험 결과 관리
-- **데이터 및 시스템 연계**: REST API, DB, 외부 서비스 연동을 기반으로 데이터 처리와 운영 기능 구현
+- **대기업 SI/SM 시스템 개발**: 폐쇄망 환경과 보안 제약을 고려한 요구사항 분석, 기능 개발, 시스템 고도화 및 운영 지원 수행
+- **운영 자동화·SRE 구축**: Python·FastAPI·Shell Script 기반 점검·이상 감지·알림·재기동 자동화와 Prometheus·Grafana 기반 관측 환경 구성
+- **AI 활용 개발 워크플로우**: Codex·Claude를 활용하고 Harness·Loop Engineering 방식으로 개발·검증·개선 흐름 구성
+- **레거시 현대화·데이터 이관**: Java 8→17 고도화, React 적용, Oracle→MySQL 전환과 데이터 영향도 검토 수행
+- **시스템 연계와 형상관리**: REST API·DB·외부 서비스 연동, CI/CD 흐름 및 GitLab·GitHub 기반 변경 이력 관리
+
+<br><br>
+
+## ⭐ Featured Project
+
+### Personal AI Engineering Lab
+**개인 서비스 운영·AI 개발 실험·SRE 구축 | 진행 중**
+
+- 파일 관리, 뉴스 수집, YouTube·도서 메모, 차량 관리, HomeOps 등 개인 서비스를 하나의 서버 환경에서 운영
+- Codex·Claude를 활용해 AI 에이전트 개발·실험 환경을 구성하고, Harness·Loop Engineering 방식으로 결과 검증 → 개선 → 재실행 흐름 설계
+- K3s 기반 Portal과 Docker 기반 서비스를 함께 운영하고, 서비스 전환·상태 검증 절차 관리
+- Prometheus·Grafana·Alertmanager를 이용해 서버·컨테이너·Kubernetes 상태를 관측하고, 장애·복구·백업 결과를 Telegram으로 알림
+- Cloudflare Tunnel 기반 외부 상태 점검과 암호화 백업·복원 검증으로 운영 장애와 데이터 손실 위험을 점검
+- [GitHub Repository](https://github.com/Len-Yoon/personal-server)
 
 <br><br>
 
@@ -480,22 +496,6 @@
 <br>
 
 ## 📖 Study
-
-### Personal AI Engineering Lab
-**개인 서비스 운영·AI 개발 실험·SRE 구축 | 진행 중**
-
-- 파일 관리, 뉴스 수집, YouTube·도서 메모, 차량 관리, HomeOps 등 개인 서비스를 하나의 서버 환경에서 운영
-- 개인 서버 환경에서 AI 에이전트 개발·실험 환경을 구성하고 반복 검증 수행
-- Harness Engineering을 적용해 에이전트 실행 환경, 도구 연동 및 검증 흐름 구성
-- Loop Engineering 방식으로 결과 검증 → 개선 → 재실행의 반복 루프 설계
-- Codex·Claude를 활용한 자동화 워크플로우와 개발 생산성 개선 실험 수행
-- K3s 기반 Portal 운영과 Docker 기반 서비스 운영을 함께 구성하고, 서비스 전환·상태 검증 절차를 관리
-- Prometheus·Grafana·Alertmanager를 이용해 서버·컨테이너·Kubernetes 상태를 관측하고, 장애·복구·백업 결과를 Telegram으로 알림
-- Cloudflare Tunnel 기반 외부 상태 점검과 암호화 백업·복원 검증을 구성하여 운영 장애와 데이터 손실 위험을 점검
-- 개인 서버 개발 환경과 GitHub 저장소를 연동하여 소스 코드, 변경 이력 및 AI 실험 결과 관리
-- [GitHub Repository](https://github.com/Len-Yoon/personal-server)
-
-<br>
 
 ### 항해 플러스 백엔드 5기
 **2024.06 ~ 2024.08**
