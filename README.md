@@ -482,12 +482,16 @@
 ## 📖 Study
 
 ### Personal AI Engineering Lab
-**개인 서버 기반 | 진행 중**
+**개인 서비스 운영·AI 개발 실험·SRE 구축 | 진행 중**
 
+- 파일 관리, 뉴스 수집, YouTube·도서 메모, 차량 관리, HomeOps 등 개인 서비스를 하나의 서버 환경에서 운영
 - 개인 서버 환경에서 AI 에이전트 개발·실험 환경을 구성하고 반복 검증 수행
 - Harness Engineering을 적용해 에이전트 실행 환경, 도구 연동 및 검증 흐름 구성
 - Loop Engineering 방식으로 결과 검증 → 개선 → 재실행의 반복 루프 설계
 - Codex·Claude를 활용한 자동화 워크플로우와 개발 생산성 개선 실험 수행
+- K3s 기반 Portal 운영과 Docker 기반 서비스 운영을 함께 구성하고, 서비스 전환·상태 검증 절차를 관리
+- Prometheus·Grafana·Alertmanager를 이용해 서버·컨테이너·Kubernetes 상태를 관측하고, 장애·복구·백업 결과를 Telegram으로 알림
+- Cloudflare Tunnel 기반 외부 상태 점검과 암호화 백업·복원 검증을 구성하여 운영 장애와 데이터 손실 위험을 점검
 - 개인 서버 개발 환경과 GitHub 저장소를 연동하여 소스 코드, 변경 이력 및 AI 실험 결과 관리
 - [GitHub Repository](https://github.com/Len-Yoon/personal-server)
 
