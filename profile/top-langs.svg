@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="227.31"
+          width="227.34"
           height="8"
           fill="#3572A5"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="227.31"
+          x="227.34"
           y="0"
-          width="18.880000000000003"
+          width="18.869999999999997"
           height="8"
           fill="#e34c26"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="236.19"
+          x="236.21"
           y="0"
-          width="16.83"
+          width="16.82"
           height="8"
           fill="#b07219"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.02"
+          x="243.03"
           y="0"
-          width="12.32"
+          width="12.31"
           height="8"
           fill="#89e051"
         />
@@ -253,7 +253,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#012456" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell 0.29%
+        PowerShell 0.28%
       </text>
     </g>
   </g><g transform="translate(0, 75)">
